@@ -70,6 +70,7 @@ int main()
     cout<<"Next choice: ";
     int choice;
     cin>>choice;
+    cout<<"sohel";
     while(choice!=0)
     {
         switch(choice)
